@@ -1,0 +1,46 @@
+<Employees>
+
+<Employee>
+
+      <id>1 </id>
+      <name>John_Doe </name>
+   <address>
+      <house>38 </house>
+      <road>3 </road>
+      <flat> </flat>
+      <area>Banani </area>
+      <dist>Dhaka </dist>
+    
+   </address>
+
+</Employee>
+
+<Employee>
+
+      <id>2 </id>
+      <name>Mark_Zuckerberg </name>
+   <address>
+      <house>20 </house>
+      <road>18 </road>
+      <flat>A_1 </flat>
+      <area>Mirpur </area>
+      <dist>Dhaka </dist>
+   </address>
+
+</Employee>
+
+<Employee>
+
+      <id>3 </id>
+      <name>Ala_Voski </name>
+   <address>
+      <house>38 </house>
+      <road>3 </road>
+      <flat> </flat>
+      <area>Banani </area>
+      <dist> </dist>
+   </address>
+
+</Employee>
+
+</Employees>
